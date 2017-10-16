@@ -1,6 +1,4 @@
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=plastic)]()
-[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork&style=plastic)]()
-[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?style=plastic)]()
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=plastic)](https://github.com/mbulfair/starterkit-webpack-base/blob/master/LICENSE)
 
 # Base Starterkit for Mustache and Webpack
 This is a near-blank starter starting point for running with the Mustache-based project in Pattern Lab - Node Edition
