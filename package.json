@@ -1,0 +1,26 @@
+{
+  "name": "starterkit-webpack-base",
+  "version": "1.0.0",
+  "description": "The Mustache-based minimal StarterKit for Pattern Lab Webpack Edition",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbulfair/starterkit-webpack-base.git"
+  },
+  "keywords": [
+    "Pattern Lab",
+    "Atomic Design",
+    "Mustache",
+    "Webpack",
+    "Starterkit"
+  ],
+  "author": "Matt Bulfair",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mbulfair/starterkit-webpack-base/issues"
+  },
+  "homepage": "https://github.com/mbulfair/starterkit-webpack-base#readme"
+}
